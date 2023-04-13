@@ -1,17 +1,18 @@
+body {
 
-body{
-
-background-color: #ffffff ;
+    background-color: #ffffff;
 
 }
-.cabecalho{
-    display:flex;
+
+.cabecalho {
+    display: flex;
     justify-content: space-around;
-align-items: center;
+    align-items: center;
 }
+
 .cabecalho__titulo {
 
-display: inline;
+    display: inline;
 
 }
 
@@ -20,12 +21,12 @@ display: inline;
     height: 187px;
 }
 
-.cabecalho__menu{
-    display: inline; 
+.cabecalho__menu {
+    display: inline;
 }
 
 .cabecalho__menu-item {
-    display: inline; 
+    display: inline;
     margin-left: 20px;
 
 }
