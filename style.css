@@ -5,7 +5,7 @@ background-color: #ffffff ;
 
 }
 .cabecalho{
-    display:flex
+    display:flex;
 }
 .cabecalho__titulo {
 
