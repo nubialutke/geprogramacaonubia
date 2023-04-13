@@ -4,11 +4,12 @@ body {
 
 }
 
-.cabecalho {
+.cabecalho{
+    background-color: rgb(139, 137, 135);
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
+    }
 
 .cabecalho__titulo {
 
@@ -25,8 +26,9 @@ body {
     display: inline;
 }
 
-.cabecalho__menu-item {
+.cabecalho__menu-item{
+
     display: inline;
     margin-left: 20px;
-
+    font-size: 32px;
 }
