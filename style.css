@@ -4,14 +4,14 @@ body{
 background-color: #ffffff ;
 
 }
-
+.cabecalho{
+    display:flex
+}
 .cabecalho__titulo {
 
 display: inline;
 
-
 }
-
 
 .cabecalho__imagem {
     width: 176px;
@@ -24,5 +24,6 @@ display: inline;
 
 .cabecalho__menu-item {
     display: inline; 
+    margin-left: 20px;
 
 }
