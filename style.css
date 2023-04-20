@@ -5,12 +5,12 @@
 
 body {
 
-    background-color: #9E9CF4;
+    background-color: #ffffff;
 
 }
 
 .cabecalho{
-    background-color: rgb(139, 137, 135);
+    background-color: #B3B4B5;
     display: flex;
     justify-content: space-around;
     align-items: center;
