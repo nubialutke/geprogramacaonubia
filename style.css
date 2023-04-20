@@ -41,7 +41,7 @@ body {
 .escola{
     display: flex;
     background-color: darkgray;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     margin: 20px;
     border-radius: 40px;
