@@ -1,3 +1,8 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
 body {
 
     background-color: #9E9CF4;
@@ -34,9 +39,9 @@ body {
 }
 
 .escola{
-    background-color: darkcyan;
+    background-color: #9E9CF4;
 }
 
 .professores{
-    background-color: rgb(35, 6, 163);
+    background-color: rgb(120, 102, 204);
 }
