@@ -39,7 +39,10 @@ body {
 }
 
 .escola{
+    display:flex;
     background-color: #9E9CF4;
+    justify-content: flex-start;
+    align-items: ;
 }
 .escola__imagem {
     width: 300px;
