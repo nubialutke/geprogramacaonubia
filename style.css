@@ -41,7 +41,17 @@ body {
 .escola{
     background-color: #9E9CF4;
 }
+.escola__imagem {
+    width: 300px;
+    height: auto;
+    
+    }
+
 
 .professores{
     background-color: rgb(120, 102, 204);
+}
+.professores__div-imagem {
+    width: 120px;
+    height: auto;
 }
