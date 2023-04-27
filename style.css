@@ -61,6 +61,7 @@ body {
     grid-row: auto;
     background-color: #2F53D7;
     justify-items: center;
+    align-items: center;
     gap: 20px;
 }
 
