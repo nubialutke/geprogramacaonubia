@@ -60,6 +60,7 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
     grid-row: auto;
     background-color: #2F53D7;
+    justify-items: center;
     align-items: center;
     gap: 20px;
 }
