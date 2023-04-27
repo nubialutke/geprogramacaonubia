@@ -68,6 +68,12 @@ body {
 
 }
 
+.professores__div-imagem{
+    width: 200px;
+    height: auto;
+
+}
+
 .escola__div{
     width: 30%;
     height: auto;
