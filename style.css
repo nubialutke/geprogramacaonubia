@@ -57,6 +57,7 @@ body {
 
 .turmas{
     display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
     background-color: #2F53D7;
 }
 .turmas__div-imagem {
