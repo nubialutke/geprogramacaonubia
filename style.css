@@ -40,7 +40,7 @@ body {
 
 .escola{
     display: flex;
-    background-color: darkgray;
+    background-color: #9E9CF4;
     justify-content: center;
     align-items: center;
     margin: 20px;
