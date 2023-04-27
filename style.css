@@ -75,6 +75,10 @@ body {
 
 }
 
+.isciplinas__div-paragrafo{
+    width: 150px;
+}
+
 .professores__div-imagem{
     width: 200px;
     height: auto;
