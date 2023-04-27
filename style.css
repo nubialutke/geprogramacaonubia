@@ -54,10 +54,10 @@ body {
     }
 
 
-.professores{
+.turmas{
     background-color: #2F53D7;
 }
-.professores__div-imagem {
+.turmas__div-imagem {
     width: 120px;
     height: auto;
 }
