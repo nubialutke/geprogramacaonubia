@@ -60,7 +60,9 @@ body {
     grid-template-columns: 1fr 1fr 1fr;
     grid-row: auto;
     background-color: #2F53D7;
+    align-items: center;
 }
+
 .turmas__div-imagem {
     width: 200px;
     height: auto;
