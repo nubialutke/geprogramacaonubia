@@ -62,6 +62,12 @@ body {
     height: auto;
 }
 
+.disciplinas__div-imagem{
+    width: 100px;
+    height: auto;
+
+}
+
 .escola__div{
     width: 30%;
     height: auto;
